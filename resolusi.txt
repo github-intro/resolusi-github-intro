@@ -1,3 +1,4 @@
 Resolus Github Intro
-- Menambah konten mengenai Docker
 - Menambah materi mengenai Laravle versi terbaru
+- Membuat merch shop
+- Membuat youtube channel

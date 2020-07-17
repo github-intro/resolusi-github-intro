@@ -2,3 +2,4 @@ Resolus Github Intro
 - Menambah materi mengenai Laravle versi terbaru
 - Membuat merch shop
 - Membuat youtube channel
+- Membuat website portfolio untuk freelance
